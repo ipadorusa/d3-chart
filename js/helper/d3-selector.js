@@ -1,0 +1,35 @@
+/**
+ * CSS Class names definition
+ */
+
+export default {
+	legendItemValue: 'label',
+	legendItemScore: 'label_score',
+	donutChartClass: 'dounutChart',
+	radarChartClass: 'radarChart',
+	lineChartClass: 'lineChart',
+	lineChartWrapDot: 'wrap_dot',
+	lineChartAxisTickY: 'tick_y',
+	lineChartAxisTextY: 'tick_txt',
+	lineChartAxisTextX: 'tick_txt',
+	lineChartDot: 'dot',
+	lineChartLine: 'wrap_line',
+	lineChartPath: 'path',
+	lineChartXline: 'x_line',
+	radarPolygon:'radar_polygon',
+	radarPointer: 'radar_pointer',
+	combieChart: 'combieChart',
+	simpleBar: 'bar_group',
+	simpleBarLables: 'label_group',
+	simpleBarXline: 'simplebar_xline',
+	tooltipClass: 'tooltip',
+	tooltipLabel: 'tooltip_label',
+	tooltipData: 'tooltip_percent',
+	wrapHiddenBar: 'wrap_hidden_bar',
+	hiddenBar: 'hidden_bar',
+	stackedBar: 'stackedChart',
+	stackedClass: 'wrap_bar',
+	stackedBarClass: 'stack_bar',
+	yAxis: 'yAxis',
+	xAxis: 'xAxis',
+}
