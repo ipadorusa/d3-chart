@@ -11,7 +11,7 @@ module.exports = (env, options) => {
         },
         output: {
             filename: '[name].js',
-            path: path.resolve(__dirname, `./${appName}/sample/test/`),
+            path: path.resolve(__dirname, `./src/dist/`),
             libraryTarget: 'var',
             library: 'UI'
         },
